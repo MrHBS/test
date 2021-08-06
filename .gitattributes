@@ -1,2 +1,2 @@
 /package.lock-json linguist-detectable
-docs/* linguist-detectable
+docs/* -linguist-documentation
